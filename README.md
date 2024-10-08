@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ZhivaldoFabio
-- 👀 I’m interested in women
+- 👀 I’m interested in UI/UX Development
 - 🌱 I’m currently learning Coding
-- 💞️ I’m looking to collaborate on nowhere actually
 - 📫 How to reach me is just find me on instagram @zhivaldofh
 
 <!---
